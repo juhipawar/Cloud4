@@ -1,0 +1,24 @@
+C:\Users\juhip\source\repos\CloudAssign4\CloudAssign4\bin\Debug\netcoreapp2.0\CloudAssign4.deps.json
+C:\Users\juhip\source\repos\CloudAssign4\CloudAssign4\bin\Debug\netcoreapp2.0\CloudAssign4.runtimeconfig.json
+C:\Users\juhip\source\repos\CloudAssign4\CloudAssign4\bin\Debug\netcoreapp2.0\CloudAssign4.runtimeconfig.dev.json
+C:\Users\juhip\source\repos\CloudAssign4\CloudAssign4\bin\Debug\netcoreapp2.0\CloudAssign4.dll
+C:\Users\juhip\source\repos\CloudAssign4\CloudAssign4\bin\Debug\netcoreapp2.0\CloudAssign4.pdb
+C:\Users\juhip\source\repos\CloudAssign4\CloudAssign4\obj\Debug\netcoreapp2.0\CloudAssign4.csprojAssemblyReference.cache
+C:\Users\juhip\source\repos\CloudAssign4\CloudAssign4\obj\Debug\netcoreapp2.0\CloudAssign4.csproj.CoreCompileInputs.cache
+C:\Users\juhip\source\repos\CloudAssign4\CloudAssign4\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\juhip\source\repos\CloudAssign4\CloudAssign4\obj\Debug\netcoreapp2.0\CloudAssign4.AssemblyInfoInputs.cache
+C:\Users\juhip\source\repos\CloudAssign4\CloudAssign4\obj\Debug\netcoreapp2.0\CloudAssign4.AssemblyInfo.cs
+C:\Users\juhip\source\repos\CloudAssign4\CloudAssign4\obj\Debug\netcoreapp2.0\CloudAssign4.dll
+C:\Users\juhip\source\repos\CloudAssign4\CloudAssign4\obj\Debug\netcoreapp2.0\CloudAssign4.pdb
+C:\Users\kiran\Downloads\New folder\New folder\CloudAssign4\bin\Debug\netcoreapp2.0\CloudAssign4.deps.json
+C:\Users\kiran\Downloads\New folder\New folder\CloudAssign4\bin\Debug\netcoreapp2.0\CloudAssign4.runtimeconfig.json
+C:\Users\kiran\Downloads\New folder\New folder\CloudAssign4\bin\Debug\netcoreapp2.0\CloudAssign4.runtimeconfig.dev.json
+C:\Users\kiran\Downloads\New folder\New folder\CloudAssign4\bin\Debug\netcoreapp2.0\CloudAssign4.dll
+C:\Users\kiran\Downloads\New folder\New folder\CloudAssign4\bin\Debug\netcoreapp2.0\CloudAssign4.pdb
+C:\Users\kiran\Downloads\New folder\New folder\CloudAssign4\obj\Debug\netcoreapp2.0\CloudAssign4.csprojAssemblyReference.cache
+C:\Users\kiran\Downloads\New folder\New folder\CloudAssign4\obj\Debug\netcoreapp2.0\CloudAssign4.csproj.CoreCompileInputs.cache
+C:\Users\kiran\Downloads\New folder\New folder\CloudAssign4\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\kiran\Downloads\New folder\New folder\CloudAssign4\obj\Debug\netcoreapp2.0\CloudAssign4.AssemblyInfoInputs.cache
+C:\Users\kiran\Downloads\New folder\New folder\CloudAssign4\obj\Debug\netcoreapp2.0\CloudAssign4.AssemblyInfo.cs
+C:\Users\kiran\Downloads\New folder\New folder\CloudAssign4\obj\Debug\netcoreapp2.0\CloudAssign4.dll
+C:\Users\kiran\Downloads\New folder\New folder\CloudAssign4\obj\Debug\netcoreapp2.0\CloudAssign4.pdb
